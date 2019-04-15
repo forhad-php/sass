@@ -24,10 +24,10 @@
 > make sure the path is OK with double slash. like :
 
 ```
-"scss": "node-sass --watch C:\\xampp\\htdocs\\team-pro-front-end\\css\\scss\\style.scss -o C:\\xampp\\htdocs\\team-pro-front-end\\css\\style.css"
+"scss": "node-sass --watch C:\\project\\sass\\location\\style.scss -o C:\\public\\stylesheet\\location\\style.css"
 ```
 
-> To run the Script :
+> To run the Script just type ↓
 
 `npm run scss`
 
