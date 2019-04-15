@@ -1,18 +1,16 @@
-`npm run scss`
-
-`sass --watch C:\xampp\htdocs\team-pro-front-end\css\scss\style.scss:C:\xampp\htdocs\team-pro-front-end\css\style.css`
-
 ## 1. Download from GitHub 
 	or
 > If we have Node.js
 
 `npm install -g sass`
 
-## 2. make a 'style.scss' file in project folder and for linking write below
+## 2. make a 'style.scss' file in project folder and for linking write below ↓
 
-`sass --watch prject/sass/location:public/stylesheets/location`
+`npm run scss`
 
-## 3. Watching live and compiling SASS at a time
+`sass --watch C:\project\sass\location\style.scss:C:\public\stylesheet\location\style.css`
+
+## 3. Watching live and compiling SASS at a time →
 
 > Open the 'package.json' file in a code editor and add below code (npm\node_modules\sass\package.json)
 
@@ -29,4 +27,4 @@
 
 `npm run scss`
 
-#Done!
+# Done!
