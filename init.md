@@ -14,10 +14,12 @@
 
 > Open the 'package.json' file in a code editor and add below code (npm\node_modules\sass\package.json)
 
-`"scripts": {
+```
+"scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "scss": "node-sass --watch scss -o css"
-}`
+}
+```
 
 > make sure the path is OK with double slash. like :
 
