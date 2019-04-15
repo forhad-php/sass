@@ -1,10 +1,10 @@
-## 1. Download from GitHub 
-	or
-> If we have Node.js
+## 1. Download SASS from GitHub 
+
+> or if we have Node.js
 
 `npm install -g sass`
 
-## 2. make a 'style.scss' file in project folder and for linking write below ↓
+## 2. Make a 'style.scss' file in project folder and for linking write below ↓
 
 `npm run scss`
 
